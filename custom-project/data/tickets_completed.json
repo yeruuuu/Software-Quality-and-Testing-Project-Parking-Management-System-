@@ -1,0 +1,90 @@
+[
+  {
+    "ticket_id": 9001,
+    "zone": "REGULAR",
+    "member_tier": "NON-MEMBER",
+    "entry_time": "2025-11-01T10:00",
+    "exit_time": "2025-11-01T13:40",
+    "day_type": "WEEKDAY",
+    "lost_ticket": false,
+    "validation": null,
+    "duration_minutes": 220,
+    "total": 12.00
+  },
+  {
+    "ticket_id": 9002,
+    "zone": "PREFERRED",
+    "member_tier": "GOLD",
+    "entry_time": "2025-11-01T09:00",
+    "exit_time": "2025-11-01T15:10",
+    "day_type": "WEEKDAY",
+    "lost_ticket": false,
+    "validation": {
+      "store": "Woolworths",
+      "kind": "HOURS",
+      "spend": 45
+    },
+    "duration_minutes": 370,
+    "total": 15.00
+  },
+  {
+    "ticket_id": 9003,
+    "zone": "VALET",
+    "member_tier": "MEMBER",
+    "entry_time": "2025-11-01T20:00",
+    "exit_time": "2025-11-02T04:10",
+    "day_type": "WEEKEND",
+    "lost_ticket": false,
+    "validation": null,
+    "duration_minutes": 490,
+    "total": 95.00
+  },
+  {
+    "ticket_id": 9004,
+    "zone": "REGULAR",
+    "member_tier": "NON-MEMBER",
+    "entry_time": "2025-11-01T11:00",
+    "exit_time": null,
+    "day_type": "WEEKDAY",
+    "lost_ticket": true,
+    "validation": null,
+    "duration_minutes": null,
+    "total": 50.00
+  },
+  {
+    "ticket_id": 9005,
+    "zone": "REGULAR",
+    "member_tier": "MEMBER",
+    "entry_time": "2025-11-01T09:00",
+    "exit_time": null,
+    "day_type": "WEEKDAY",
+    "lost_ticket": true,
+    "validation": null,
+    "duration_minutes": null,
+    "total": 30.00
+  },
+  {
+    "ticket_id": 9006,
+    "zone": "VALET",
+    "member_tier": "GOLD",
+    "entry_time": "2025-11-01T12:30",
+    "exit_time": null,
+    "day_type": "WEEKDAY",
+    "lost_ticket": true,
+    "validation": null,
+    "duration_minutes": null,
+    "total": 80.00
+  },
+  {
+    "ticket_id": 9007,
+    "zone": "REGULAR",
+    "member_tier": "SILVER",
+    "entry_time": "2025-11-01T09:00",
+    "exit_time": "2025-11-01T17:00",
+    "day_type": "WEEKDAY",
+    "lost_ticket": false,
+    "validation": null,
+    "duration_minutes": 480,
+    "total": 16.00
+  }
+]
